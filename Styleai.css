@@ -98,6 +98,9 @@ nav a {
     transition: color 0.2s;
     
 }
+a{
+    text-decoration: none;
+}
 
 .container {
     max-width: 1200px;
@@ -133,13 +136,13 @@ h2 {
     cursor:  default;
 }
 
-.projects-list {
+.projects-list , .sprache {
     list-style: none;
     padding: 0;
     display: flex;
     cursor:  default;
 }
-.projects-list li {
+.projects-list li  {
     margin-bottom: 1.5rem;
     background: #DBE2EF;
     color: #112D4E;
@@ -149,7 +152,17 @@ h2 {
     margin: 10px;
     line-height: 1.6;
 }
-.projects-list li:hover {
+.sprache li{
+     margin-bottom: 1.5rem;
+    background: #DBE2EF;
+    color: #112D4E;
+    border-radius: 12px;
+    padding: 2.1rem 2.2rem;
+    box-shadow: 0 2px 8px rgba(33,150,243,0.08);
+    margin: 10px;
+    line-height: 1.8;
+}
+.projects-list li:hover , .sprache li:hover {
     transform: translateY(-2px) scale(1.04);
         box-shadow: 0 4px 16px rgba(0, 0, 0, 0.45);
             background: #dbe8ff;
