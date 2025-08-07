@@ -15,7 +15,7 @@ The website features a beautiful animated starfield background, giving it a calm
 -🧭 About Me – A short introduction to my personality, interests, and vision
 -🛠️ Tech Stack
 
-HTML, CSS
+HTML, CSS + Ai
 
 Starfield animation using CSS
 
@@ -39,7 +39,7 @@ Die Seite bietet einen wunderschönen animierten Sternenhintergrund, der eine ru
 - 🧭 **Über mich** – Eine kurze Einführung in meine Persönlichkeit, Interessen und Vision  
 
 🛠️ Tech-Stack  
-- HTML, CSS
+- HTML, CSS , Ki
 - Sternenfeld-Animation mit CSS
 - Responsives Design für Desktop   
 
